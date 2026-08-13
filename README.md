@@ -1,21 +1,14 @@
 <!-- Profile README -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OQI24/OQI24/main/dark.svg">
-    <img src="https://raw.githubusercontent.com/OQI24/OQI24/main/light.svg" alt="Ivan Sukhachev — Senior Frontend Developer" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <img src="./light.svg" alt="Ivan Sukhachev — Senior Frontend Developer" width="100%">
   </picture>
 </div>
 
+<!-- One-line anchors: GitHub draws link underlines on whitespace between badges -->
 <p align="center">
-  <a href="https://github.com/OQI24">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a371f7" alt="GitHub">
-  </a>
-  <a href="https://t.me/ivan_sukhachev">
-    <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=a371f7" alt="Telegram">
-  </a>
-  <a href="https://www.linkedin.com/in/ivan-sukhachev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a371f7" alt="LinkedIn">
-  </a>
+  <a href="https://github.com/OQI24"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a371f7" alt="GitHub"></a>&#160;<a href="https://t.me/ivan_sukhachev"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=a371f7" alt="Telegram"></a>&#160;<a href="https://www.linkedin.com/in/ivan-sukhachev/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=a371f7" alt="LinkedIn"></a>
 </p>
 
 ---
